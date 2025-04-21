@@ -7,6 +7,46 @@
         mc:Ignorable="d"
         Title="SignUpWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Sign Up"
+      HorizontalAlignment="Center"
+      Margin="0,337,0,0"
+      VerticalAlignment="Top"
+      Width="100" Height="25" Click="signUpBtnClicked">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}"
+                  CornerRadius="10"
+                  BorderBrush="{TemplateBinding BorderBrush}"
+                  BorderThickness="{TemplateBinding BorderThickness}">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <TextBlock HorizontalAlignment="Center" Margin="0,28,0,0" TextWrapping="Wrap" Text="Sign Up"  FontSize="32" VerticalAlignment="Top"/>
+        <Button Content="Back"
+          HorizontalAlignment="Center"
+          Margin="0,377,0,0"
+          VerticalAlignment="Top"
+          Width="56" Height="25" Click="backBtnClicked">
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border Background="{TemplateBinding Background}"
+                      CornerRadius="10"
+                      BorderBrush="{TemplateBinding BorderBrush}"
+                      BorderThickness="{TemplateBinding BorderThickness}">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="278,80,0,0" TextWrapping="Wrap" Text="Username"  FontSize="16" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtUsername" HorizontalAlignment="Center" Margin="0,106,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="244" Height="37"/>
+        <TextBlock HorizontalAlignment="Left" Margin="278,156,0,0" TextWrapping="Wrap" Text="Password"  FontSize="16" VerticalAlignment="Top" RenderTransformOrigin="0.833,0.519"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Center" Margin="0,182,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="244" Height="37"/>
+        <TextBlock HorizontalAlignment="Left" Margin="278,224,0,0" TextWrapping="Wrap" Text="Confirm Password"  FontSize="16" VerticalAlignment="Top" RenderTransformOrigin="0.833,0.519"/>
+        <TextBox x:Name="txtPasswordConfirm" HorizontalAlignment="Center" Margin="0,251,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="244" Height="37"/>
+        <TextBlock x:Name="txtError" HorizontalAlignment="Left" Margin="278,302,0,0" TextWrapping="Wrap"  FontSize="16" VerticalAlignment="Top" RenderTransformOrigin="0.833,0.519"/>
+
     </Grid>
 </Window>

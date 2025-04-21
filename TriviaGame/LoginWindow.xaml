@@ -1,17 +1,17 @@
-﻿<Window x:Class="TriviaGame.MainWindow"
+﻿<Window x:Class="TriviaGame.LoginWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TriviaGame"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="LoginWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Login"
         HorizontalAlignment="Center"
         Margin="0,337,0,0"
         VerticalAlignment="Top"
-        Width="100" Height="25">
+        Width="100" Height="25" Click="LoginBtnClicked">
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Border Background="{TemplateBinding Background}"
@@ -28,7 +28,7 @@
             HorizontalAlignment="Center"
             Margin="0,377,0,0"
             VerticalAlignment="Top"
-            Width="56" Height="25">
+            Width="56" Height="25" Click="signUpBtnClicked">
             <Button.Template>
                 <ControlTemplate TargetType="{x:Type Button}">
                     <Border Background="{TemplateBinding Background}"
@@ -41,9 +41,10 @@
             </Button.Template>
         </Button>
         <TextBlock HorizontalAlignment="Left" Margin="278,115,0,0" TextWrapping="Wrap" Text="Username"  FontSize="16" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Center" Margin="0,141,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="244" Height="37"/>
+        <TextBox x:Name="txtUsername" HorizontalAlignment="Center" Margin="0,141,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="244" Height="37"/>
         <TextBlock HorizontalAlignment="Left" Margin="278,191,0,0" TextWrapping="Wrap" Text="Password"  FontSize="16" VerticalAlignment="Top" RenderTransformOrigin="0.833,0.519"/>
-        <TextBox HorizontalAlignment="Center" Margin="0,217,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="244" Height="37"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Center" Margin="0,217,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="244" Height="37"/>
+        <TextBlock x:Name="txtError" HorizontalAlignment="Left" Margin="278,302,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

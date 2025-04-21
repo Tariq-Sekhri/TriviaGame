@@ -30,3 +30,15 @@ C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\TriviaGame.c
 C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.CoreCompileInputs.cache
 C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\TriviaGame.exe
 C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\TriviaGame.pdb
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\bin\Debug\EntityFramework.dll
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\bin\Debug\EntityFramework.xml
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\TriviaGame_Content.g.cs
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.Up2Date
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\QuestionWIndow.g.cs
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\QuestionWIndow.baml
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\UserInfoWindow.g.cs
+C:\Users\hulks\OneDrive\coding\.net\TriviaGame\TriviaGame\obj\Debug\UserInfoWindow.baml

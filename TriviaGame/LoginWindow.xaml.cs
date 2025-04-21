@@ -37,7 +37,7 @@ namespace TriviaGame
             using (var context = new TriviaGameEntities())
             {
                 var user = (from u in context.Users
-                            where u.username == txtUsername.Text && u.password == txtPassword.Text //encodeed version of it
+                            where u.username == txtUsername.Text && u.password == txtPassword.Text 
                             select u).FirstOrDefault();
 
 

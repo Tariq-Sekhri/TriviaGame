@@ -7,20 +7,26 @@
       "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\questionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\userinfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\userinfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\userinfowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\userinfowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\questionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\questionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\trivia.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\trivia.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\trivia.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|solutionrelative:triviagame\\trivia.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TriviaGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC3BCFA3-A654-45D0-A8BC-4E5E5933ECFA}|TriviaGame\\TriviaGame.csproj|c:\\users\\hulks\\onedrive\\coding\\.net\\triviagame\\triviagame\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +36,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\User.cs",
-              "RelativeDocumentMoniker": "TriviaGame\\User.cs",
-              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\User.cs",
-              "RelativeToolTip": "TriviaGame\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TriviaGame\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "TriviaGame\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T21:25:17.182Z",
+              "WhenOpened": "2025-04-21T21:39:56.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\SignUpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TriviaGame\\SignUpWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\SignUpWindow.xaml.cs",
+              "RelativeToolTip": "TriviaGame\\SignUpWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:39:36.948Z",
               "EditorCaption": ""
             },
             {
@@ -53,46 +72,46 @@
               "RelativeDocumentMoniker": "TriviaGame\\QuestionWindow.xaml.cs",
               "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\QuestionWindow.xaml.cs",
               "RelativeToolTip": "TriviaGame\\QuestionWindow.xaml.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAgwJkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwEAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T21:19:53.281Z",
+              "WhenOpened": "2025-04-21T21:37:13.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "QuestionWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\QuestionWindow.xaml",
-              "RelativeDocumentMoniker": "TriviaGame\\QuestionWindow.xaml",
-              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\QuestionWindow.xaml",
-              "RelativeToolTip": "TriviaGame\\QuestionWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-21T21:19:50.328Z",
+              "Title": "Trivia.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\Trivia.edmx",
+              "RelativeDocumentMoniker": "TriviaGame\\Trivia.edmx",
+              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\Trivia.edmx [Diagram1]",
+              "RelativeToolTip": "TriviaGame\\Trivia.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-04-21T21:36:44.234Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trivia.Context.tt",
+              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\Trivia.Context.tt",
+              "RelativeDocumentMoniker": "TriviaGame\\Trivia.Context.tt",
+              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\Trivia.Context.tt",
+              "RelativeToolTip": "TriviaGame\\Trivia.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-21T21:36:43.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserInfoWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\UserInfoWindow.xaml",
-              "RelativeDocumentMoniker": "TriviaGame\\UserInfoWindow.xaml",
-              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\UserInfoWindow.xaml",
-              "RelativeToolTip": "TriviaGame\\UserInfoWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-21T20:04:28.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserInfoWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\UserInfoWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TriviaGame\\UserInfoWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\UserInfoWindow.xaml.cs",
-              "RelativeToolTip": "TriviaGame\\UserInfoWindow.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T20:10:15.561Z",
+              "DocumentIndex": 5,
+              "Title": "TriviaGame",
+              "DocumentMoniker": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\TriviaGame.csproj",
+              "RelativeDocumentMoniker": "TriviaGame\\TriviaGame.csproj",
+              "ToolTip": "C:\\Users\\hulks\\OneDrive\\coding\\.net\\TriviaGame\\TriviaGame\\TriviaGame.csproj",
+              "RelativeToolTip": "TriviaGame\\TriviaGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-21T21:35:06.901Z",
               "EditorCaption": ""
             }
           ]

@@ -62,7 +62,7 @@ namespace TriviaGame
 
 
             txtQuestion.Text = WebUtility.HtmlDecode(result["question"].ToString());
-            txtAwnser.Text = WebUtility.HtmlDecode(result["correct_answer"].ToString());
+            //txtAwnser.Text = WebUtility.HtmlDecode(result["correct_answer"].ToString());
 
             var correct = WebUtility.HtmlDecode(result["correct_answer"].ToString());
             var wrong = WebUtility.HtmlDecode(result["incorrect_answers"][0].ToString());
